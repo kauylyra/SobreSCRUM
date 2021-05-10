@@ -1,6 +1,6 @@
 O que é um PO?
 PO ou Product Owner é a pessoa que tem ciencia de tudo o que está relacionado ao projeto que será desenvolvido, como as telas e interações do APP, e qual o sistema que será utilizado
-para que seja desenvolvido de uma melhor forma, após esse entendimento ele vai elaborar um Product Backlog, onde o projeto é separado em uma lista de prioridades para desenvoler o 
+para que seja desenvolvido de uma melhor forma, após esse entendimento ele vai elaborar um Product Backlog, onde o projeto é separado em uma lista de prioridades para desenvolver o 
 projeto.
 
 O que é um SCRUM Master?
